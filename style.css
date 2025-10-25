@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f0f0;
+  font-family:serif;
+  text-align: center;
+}
+h1 {
+  color: #333;
+  margin-bottom: 40px;
+}
+div{
+  background: white;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 20px;
+  width: 500px;
+}
+.track h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+ audio {
+  width: 100%;
+} 
